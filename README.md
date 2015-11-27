@@ -1,9 +1,5 @@
 # Un Calendar
 
-## Warning: works only with Ember <= 1.10
-
-*This project is currently unmaintained but we'll still accept all the PR love you want to give us!*
-
 #### A calendar component for Ember with a _speedy_ month view
 
 ### Rationale
